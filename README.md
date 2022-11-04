@@ -2,7 +2,7 @@
 
 This repository holds a list of reserved crate names for marker.
 
-The goal is not to limit the community, so if you're interested in using one of these names please reach out.
+The goal is not to limit the community, so if you're interested in using one of these names, please reach out.
 
 ## Guidelines
 
