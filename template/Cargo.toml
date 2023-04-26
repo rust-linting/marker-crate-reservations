@@ -1,9 +1,9 @@
 [package]
-name = "cargo_$name"
+name = "marker_$name"
 version = "0.0.0-placeholder"
 edition = "2021"
-description = "This crate is reserved for the rust-linting organization"
-license = "MIT"
+description = "This crate is reserved for the rust-marker organization"
+license = "MIT OR Apache-2.0"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

@@ -7,4 +7,4 @@ The goal is not to limit the community, so if you're interested in using one of 
 ## Guidelines
 
 1. All crates should have the `marker_` prefix
-
+2. Prefer using underscores over dashes
