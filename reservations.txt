@@ -1,7 +1,9 @@
 cargo_marker
+cargo_marker_dev
 marker_adapter
 marker_api
 marker_lints
 marker_rustc_driver
 marker_util
 marker_uitest
+marker_lint_crate_test
